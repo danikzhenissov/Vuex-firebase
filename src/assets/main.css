@@ -1,0 +1,13 @@
+.bg_auth{
+    background-image: url(../assets/images/background\ \(1\).webp);
+    background-repeat: no-repeat;
+}
+.btn {
+    background: rgb(254, 133, 98);
+    background: linear-gradient(
+      90deg,
+      rgba(254, 133, 98, 1) 0%,
+      rgba(226, 71, 136, 1) 50%,
+      rgba(222, 62, 142, 1) 100%
+    );
+}
